@@ -24,7 +24,7 @@ Los conjuntos de datos utilizados para este análisis están disponibles en la c
 
 El análisis realizado proporciona información valiosa sobre los patrones de ocupación, la demanda de pizzas, las pizzas más y menos vendidas, y el valor promedio de los pedidos en Plato's Pizza. Estos insights pueden utilizarse para tomar decisiones informadas y diseñar estrategias para impulsar las ventas y mejorar la eficiencia operativa.
 
-![Vista Tablero](Vista tablero.png)
+([Vista tablero.png](https://github.com/piacastilloareco/Maven_Pizza_Challange/blob/main/Vista%20tablero.png))
 
 ## Contribuciones
 Las contribuciones a este repositorio son bienvenidas. Si tienes ideas para mejorar el análisis o tienes sugerencias adicionales, no dudes en abrir un pull request.
