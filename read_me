@@ -1,0 +1,18 @@
+![](https://www.mtl.org/sites/default/files/styles/playlist_banner_big/public/2022-02/44614.jpg?itok=BCwMoH7I)
+
+#BI Consultant - Maven Pizza Challenge
+
+Plato's Pizza is a Greek-inspired pizza place located in New Jersey, USA. The restaurant is looking for operations improvement, and they think a year worth of data would be helpful for this.
+
+Business task: Find opportunities for Plato's Pizza to drive more sales, and work more efficiently.
+
+Questions for analysis
+
+- What days and times do Plato's Pizza tend to be the busiest?
+- How many pizzas is the restaurant making during peak periods?
+- What are the restaurants' best and worst selling pizzas?
+- What is the average order value?
+
+###Data sources used
+
+The public dataset is completely available on the Maven Analytics website platform, where it stores and consolidates all available datasets for analysis in the Data Playground. The specific individual datasets at hand can be obtained at the link: https://www.mavenanalytics.io/data-playground?search=pizza
