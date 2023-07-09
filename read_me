@@ -1,18 +1,27 @@
 ![](https://www.mtl.org/sites/default/files/styles/playlist_banner_big/public/2022-02/44614.jpg?itok=BCwMoH7I)
 
-#BI Consultant - Maven Pizza Challenge
+#Plato's Pizza - Análisis de Datos
+Este repositorio contiene el análisis de datos realizado para el desafío del consultor de BI de Maven Pizza. El objetivo de este análisis es identificar oportunidades para impulsar las ventas y mejorar la eficiencia operativa en Plato's Pizza, una pizzería ubicada en New Jersey, USA.
 
-Plato's Pizza is a Greek-inspired pizza place located in New Jersey, USA. The restaurant is looking for operations improvement, and they think a year worth of data would be helpful for this.
+###Preguntas para el análisis
+¿En qué días y horarios Plato's Pizza tiende a estar más ocupado?
+¿Cuántas pizzas se preparan durante los períodos de mayor demanda?
+¿Cuáles son las pizzas más y menos vendidas en el restaurante?
+¿Cuál es el valor promedio de cada pedido?
+Conjunto de datos utilizados
+Los conjuntos de datos utilizados para este análisis están disponibles en el repositorio. 
 
-Business task: Find opportunities for Plato's Pizza to drive more sales, and work more efficiently.
+Estructura del repositorio
+data: Esta carpeta contiene los conjuntos de datos utilizados en el análisis.
+visualizations: Esta carpeta contiene las visualizaciones generadas durante el análisis.
+Instrucciones para reproducir el análisis
 
-Questions for analysis
+Clona este repositorio en tu máquina local:
+Copy code
+git clone https://github.com/tu-usuario/nombre-del-repositorio.git
 
-- What days and times do Plato's Pizza tend to be the busiest?
-- How many pizzas is the restaurant making during peak periods?
-- What are the restaurants' best and worst selling pizzas?
-- What is the average order value?
+##Resultados y Conclusiones
+El análisis realizado proporciona información valiosa sobre los patrones de ocupación, la demanda de pizzas, las pizzas más y menos vendidas, y el valor promedio de los pedidos en Plato's Pizza. Estos insights pueden utilizarse para tomar decisiones informadas y diseñar estrategias para impulsar las ventas y mejorar la eficiencia operativa.
 
-###Data sources used
-
-The public dataset is completely available on the Maven Analytics website platform, where it stores and consolidates all available datasets for analysis in the Data Playground. The specific individual datasets at hand can be obtained at the link: https://www.mavenanalytics.io/data-playground?search=pizza
+##Contribuciones
+Las contribuciones a este repositorio son bienvenidas. Si tienes ideas para mejorar el análisis o tienes sugerencias adicionales, no dudes en abrir un pull request.
